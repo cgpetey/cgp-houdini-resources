@@ -1,14 +1,14 @@
 # Houdini Craft Index
 
-A living, short list of **current** Houdini craft resources — docs, learning, tools, and community that still matter for **Houdini 22** (Solaris / Karma / Copernicus, modern SOPs, VEX).
+A living, short list of **current** Houdini craft resources — docs, learning, tools, and community that still matter for Houdini craft \(Solaris / Karma / Copernicus, modern SOPs, VEX — version-agnostic, current practice\).
 
 Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exhaustive awesome-list: if it is not useful this year, it does not belong here.
 
-> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for H22. Last curated: 2026-09-11 (YouTube craft channels added).
+> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for current practice. Last curated: 2026-09-11 (YouTube craft channels added).
 
 ## Docs
 
-- [SideFX Houdini Documentation](https://www.sidefx.com/docs/houdini/) — Canonical H22 docs (SOPs, LOPs, COPs, VEX, Python).
+- [SideFX Houdini Documentation](https://www.sidefx.com/docs/houdini/) — Canonical docs (SOPs, LOPs, COPs, VEX, Python).
 - [What's New in Houdini 22](https://www.sidefx.com/docs/houdini/news/22/) — Release delta when upgrading workflows.
 - [Solaris](https://www.sidefx.com/docs/houdini/solaris/) — USD scene building / lookdev.
 - [Karma](https://www.sidefx.com/docs/houdini/solaris/karma.html) — Built-in CPU/XPU renderer.
@@ -22,7 +22,7 @@ Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exha
 - [CGWiki (Matt Estela)](https://tokeru.com/cgwiki/) — Production-minded Houdini wiki; best free deep craft notes.
 - [CGWiki → Houdini](https://tokeru.com/cgwiki/Houdini.html) — Topic index.
 - [Entagma](https://entagma.com/) — High-signal procedural tutorials.
-- [procegen — Konstantin Magnus](https://procegen.konstantinmagnus.de/) — Procedural modeling / tool-building articles + files (H22-tagged).
+- [procegen — Konstantin Magnus](https://procegen.konstantinmagnus.de/) — Procedural modeling / tool-building articles + files (current).
 - [Luiz' Big List of Games Tutorials](https://www.sidefx.com/tutorials/luiz-big-list-of-games-tutorials/) — SideFX-curated games / Houdini map.
 - [SideFX Digital Learning Material](https://docs.google.com/spreadsheets/d/11FbYBV_OV2INv3LCk38fmcgZbuVrgxYaZK-1KifCpyc/edit#gid=0) — Spreadsheet index of official tutorial material.
 
@@ -42,7 +42,7 @@ Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exha
 
 ## YouTube (current craft)
 
-- [Inside the Mind](https://www.youtube.com/@InsideTheMindSpace) — Project-based Houdini training; active H22 Copernicus / PCOPs coverage. Site: [insidethemind.space](https://insidethemind.space/)
+- [Inside the Mind](https://www.youtube.com/@InsideTheMindSpace) — Project-based Houdini training; active Copernicus / PCOPs coverage. Site: [insidethemind.space](https://insidethemind.space/)
 - [cgside](https://www.youtube.com/@cgside) — Procedural modeling, SOPs, VEX, Solaris/Karma workflows.
 - [Nodeconnector](https://www.youtube.com/@Nodeconnector) — Houdini procedural systems, motion design, FX.
 - [the point and prim](https://www.youtube.com/@thepointandprim) — Houdini for high-end VFX.
@@ -66,3 +66,4 @@ Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exha
 ## License
 
 Link index only. Linked sites keep their own licenses / terms.
+
