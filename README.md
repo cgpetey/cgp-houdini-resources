@@ -4,7 +4,7 @@ A living, short list of **current** Houdini craft resources — docs, learning, 
 
 Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exhaustive awesome-list: if it is not useful this year, it does not belong here.
 
-> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for H22. Last curated: 2026-09-11.
+> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for H22. Last curated: 2026-09-11 (YouTube craft channels added).
 
 ## Docs
 
@@ -25,8 +25,6 @@ Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exha
 - [procegen — Konstantin Magnus](https://procegen.konstantinmagnus.de/) — Procedural modeling / tool-building articles + files (H22-tagged).
 - [Luiz' Big List of Games Tutorials](https://www.sidefx.com/tutorials/luiz-big-list-of-games-tutorials/) — SideFX-curated games / Houdini map.
 - [SideFX Digital Learning Material](https://docs.google.com/spreadsheets/d/11FbYBV_OV2INv3LCk38fmcgZbuVrgxYaZK-1KifCpyc/edit#gid=0) — Spreadsheet index of official tutorial material.
-- [SideFX YouTube](https://www.youtube.com/c/houdini3d/videos) — Official channel.
-- [Entagma YouTube](https://www.youtube.com/c/Entagma) — Technique demos.
 
 ## Tools
 
@@ -41,6 +39,16 @@ Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exha
 - [Odforce](https://forums.odforce.net/) — Long-running Houdini VFX forum.
 - [r/Houdini](https://www.reddit.com/r/Houdini/) — Public discussion.
 - [Think Procedural (Discord)](https://discord.com/invite/b8U5Hdy) — Procedural / Houdini Discord (invite links rotate — re-check if dead).
+
+## YouTube (current craft)
+
+- [Inside the Mind](https://www.youtube.com/@InsideTheMindSpace) — Project-based Houdini training; active H22 Copernicus / PCOPs coverage. Site: [insidethemind.space](https://insidethemind.space/)
+- [cgside](https://www.youtube.com/@cgside) — Procedural modeling, SOPs, VEX, Solaris/Karma workflows.
+- [Nodeconnector](https://www.youtube.com/@Nodeconnector) — Houdini procedural systems, motion design, FX.
+- [the point and prim](https://www.youtube.com/@thepointandprim) — Houdini for high-end VFX.
+- [Node Flow](https://www.youtube.com/@nodeflowhoudini) — Houdini tutorials, workflows, 3D FX.
+- [SideFX YouTube](https://www.youtube.com/c/houdini3d/videos) — Official channel.
+- [Entagma YouTube](https://www.youtube.com/c/Entagma) — Technique demos.
 
 ## Reference
 
