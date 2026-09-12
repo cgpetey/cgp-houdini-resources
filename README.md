@@ -4,8 +4,6 @@ A living, short list of **current** Houdini craft resources — docs, learning, 
 
 Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exhaustive awesome-list: if it is not useful this year, it does not belong here.
 
-> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for current practice. Last curated: 2026-09-11 (YouTube craft channels added).
-
 ## Docs
 
 - [SideFX Houdini Documentation](https://www.sidefx.com/docs/houdini/) — Canonical docs (SOPs, LOPs, COPs, VEX, Python).
