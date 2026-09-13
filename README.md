@@ -4,7 +4,7 @@ A living, short list of **current** Houdini craft resources — docs, learning, 
 
 Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exhaustive awesome-list: if it is not useful this year, it does not belong here.
 
-> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for current practice. Last curated: 2026-09-11 (YouTube craft channels added).
+> Inspired by [agmmnn/houdini-resources](https://github.com/agmmnn/houdini-resources); aggressively curated for current practice. Last curated: 2026-09-12 (added Junichiro Horikawa).
 
 ## Docs
 
@@ -48,6 +48,7 @@ Maintained by Matt Peterson ([cgpetey](https://github.com/cgpetey)). Not an exha
 - [the point and prim](https://www.youtube.com/@thepointandprim) — Houdini for high-end VFX.
 - [Node Flow](https://www.youtube.com/@nodeflowhoudini) — Houdini tutorials, workflows, 3D FX.
 - [SideFX YouTube](https://www.youtube.com/c/houdini3d/videos) — Official channel.
+- [Junichiro Horikawa](https://www.youtube.com/c/JunichiroHorikawa) — Algorithmic design in Houdini; VEX, geometry, architecture-driven procedural craft.
 - [Entagma YouTube](https://www.youtube.com/c/Entagma) — Technique demos.
 
 ## Reference
